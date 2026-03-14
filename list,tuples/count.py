@@ -9,3 +9,7 @@ list=["C","D","A","A","B","B","A"]
 list.sort()
 print(list)
  
+
+count=5
+for i in list:
+    count+=1
